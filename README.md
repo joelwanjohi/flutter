@@ -123,3 +123,4 @@ Information on how to get started can be found in our
 [platform channels]: https://docs.flutter.dev/development/platform-integration/platform-channels
 [interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel
 [Impeller]: https://docs.flutter.dev/perf/impeller
+[Shimmer]: https://pub.dev/packages/shimmer
